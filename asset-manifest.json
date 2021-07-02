@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/html-to-reactjs/static/css/main.a6321487.chunk.css",
+    "main.js": "/html-to-reactjs/static/js/main.33f6a9d4.chunk.js",
+    "main.js.map": "/html-to-reactjs/static/js/main.33f6a9d4.chunk.js.map",
+    "runtime-main.js": "/html-to-reactjs/static/js/runtime-main.6f854796.js",
+    "runtime-main.js.map": "/html-to-reactjs/static/js/runtime-main.6f854796.js.map",
+    "static/js/2.e212280b.chunk.js": "/html-to-reactjs/static/js/2.e212280b.chunk.js",
+    "static/js/2.e212280b.chunk.js.map": "/html-to-reactjs/static/js/2.e212280b.chunk.js.map",
+    "static/js/3.2b75a353.chunk.js": "/html-to-reactjs/static/js/3.2b75a353.chunk.js",
+    "static/js/3.2b75a353.chunk.js.map": "/html-to-reactjs/static/js/3.2b75a353.chunk.js.map",
+    "index.html": "/html-to-reactjs/index.html",
+    "static/css/main.a6321487.chunk.css.map": "/html-to-reactjs/static/css/main.a6321487.chunk.css.map",
+    "static/js/2.e212280b.chunk.js.LICENSE.txt": "/html-to-reactjs/static/js/2.e212280b.chunk.js.LICENSE.txt",
+    "static/media/clients-01.678ec97a.svg": "/html-to-reactjs/static/media/clients-01.678ec97a.svg",
+    "static/media/clients-02.bbcc409a.svg": "/html-to-reactjs/static/media/clients-02.bbcc409a.svg",
+    "static/media/clients-03.fec71242.svg": "/html-to-reactjs/static/media/clients-03.fec71242.svg",
+    "static/media/clients-04.3ca5f418.svg": "/html-to-reactjs/static/media/clients-04.3ca5f418.svg",
+    "static/media/clients-05.031eaac2.svg": "/html-to-reactjs/static/media/clients-05.031eaac2.svg",
+    "static/media/feature-tile-icon-01.e1fe135f.svg": "/html-to-reactjs/static/media/feature-tile-icon-01.e1fe135f.svg",
+    "static/media/feature-tile-icon-02.f3554320.svg": "/html-to-reactjs/static/media/feature-tile-icon-02.f3554320.svg",
+    "static/media/feature-tile-icon-03.f2c5213b.svg": "/html-to-reactjs/static/media/feature-tile-icon-03.f2c5213b.svg",
+    "static/media/hero-image.57c068d3.png": "/html-to-reactjs/static/media/hero-image.57c068d3.png",
+    "static/media/style.css": "/html-to-reactjs/static/media/illustration-section-01.3caff9af.svg",
+    "static/media/logo.54049f7a.svg": "/html-to-reactjs/static/media/logo.54049f7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f854796.js",
+    "static/js/2.e212280b.chunk.js",
+    "static/css/main.a6321487.chunk.css",
+    "static/js/main.33f6a9d4.chunk.js"
+  ]
+}
