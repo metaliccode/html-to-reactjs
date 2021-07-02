@@ -239,7 +239,7 @@ export default function Homepage() {
           </div>
         </Section>
       </main>
-      <Footer></Footer>
+      <Footer />
     </div>
   );
 }
